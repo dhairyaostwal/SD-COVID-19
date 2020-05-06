@@ -1,9 +1,11 @@
 {% extends 'demand/main.html' %}
+{%load static%}
 
 {% block content %}
-<h1 class="display-7">Hi there!</h1><p class="lead">
+<h1 class="dashboard-heading">Hi there!</h1>
+<p class="lead">
 	We're there to help you find demand during COVID-19
-  </p>
+</p>
 <p><br><p>
 <table class="table table-hover table-light">
 	<thead>
@@ -16,21 +18,21 @@
 	  </tr>
 	</thead>
 	<tbody>
-	  <tr>
+	  <tr class ="available">
 		<th scope="row">1</th>
 		<td>Vegetables</td>
 		<td>Brigade Towers</td>
 		<td>250</td>
 		<td>Available</td>
 	  </tr>
-	  <tr>
+	  <tr class = "available">
 		<th scope="row">2</th>
 		<td>Plumber</td>
 		<td>Rajaji Nagar</td>
 		<td>12</td>
 		<td>Available</td>
 	  </tr>
-	  <tr>
+	  <tr class ="na">
 		<th scope="row">3</th>
 		<td>Electricity</td>
 		<td>Anna Nagar</td>
