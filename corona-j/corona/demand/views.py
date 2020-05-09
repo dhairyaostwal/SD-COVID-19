@@ -9,4 +9,6 @@ def about(request):
 
 def services(request):
     return render(request, 'demand/services.html')
-    
+
+def vendorprofile(request):
+    return render(request, 'demand/vendorprofile.html')

@@ -30,6 +30,7 @@
     height: 500px;
     width: 250px;
     margin-left: 70px;
+    margin-right: 70px;
     padding: 50px;
 }
 
@@ -60,4 +61,22 @@
     margin:auto;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+img{
+    border-radius: 70px;
+    border: hotpink;
 }
