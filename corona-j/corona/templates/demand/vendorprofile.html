@@ -1,2 +1,27 @@
 {% extends 'demand/main.html' %}
 {%load static%}
+{% block content%}
+<center><div>
+    <br>
+    <img src="https://i.pinimg.com/originals/53/2d/e3/532de3012aa747e9ab33821010a1e0fe.jpg" class="vendorimg" height = "210px" width = "210px">
+    <br>
+    <p class ="vendorname">NATE SIMON</p>
+    <p class = "vendordescr">PLUMBER</p>
+</div>
+    <hr>
+<div class="vservice">
+    <span><strong>Services:</strong></span>
+    <span class = "service1">Drain Repair</span>
+    <span class = "service1">Bath Fitting</span>
+    <span class = "service1">Sewer Cleaning</span>
+    <span class = "service1">Toilet Cleaning</span>
+</div>
+<!--Need to fix Services dropping down border spacing-->
+    <hr>
+<div>
+    <span><strong>Address:</strong></span>
+    <span>Rajaji Nagar</span><br>
+    <span><strong>Mobile:</strong></span>
+    <span>98234xxxxx</span>
+</div>
+{% endblock %}
