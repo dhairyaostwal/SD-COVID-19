@@ -1,4 +1,6 @@
-# dokapvt(Private)
--> Problem in services.html
+# dokapvt(No more private)
+### Project in making
+Want to know the idea, refer here: [Link](https://www.linkedin.com/feed/update/urn:li:activity:6664136420841656320/)
 
-**NOTE: services.html has its own html,css and bootstrap whoose linking is creating problem.**
+> **Kindly proceed to Problems.md to help me fix issues encountered.**
+
