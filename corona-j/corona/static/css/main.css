@@ -132,6 +132,7 @@
 }
 
 .features{
+    
     padding-left: auto;
     padding-right:auto;
     text-align: center;
@@ -143,7 +144,6 @@
 .btnstyling{
     margin-bottom: 20px;
     text-align: center;
-    margin-left: 190px;
-    margin-right:auto;
+    margin-left: 170px;
 }
 
