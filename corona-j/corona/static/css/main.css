@@ -87,7 +87,7 @@
     border-radius: 5px;
     border-color: black;
     background-color: rgb(79, 188, 224);
-    border-spacing: 15px 15px;
+    
 }
 
 .vservice{
@@ -110,6 +110,7 @@
 
 .is1{
     font-family: 'Julius Sans One', sans-serif;
+    padding-top: 5rem;
     font-size: 30px;
     margin-top: 10px;
     margin-left: 15px;
@@ -133,6 +134,28 @@
 
 .features{
     
+    padding-top: 5rem;
+    padding-left: auto;
+    padding-right:auto;
+    text-align: center;
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.features1{
+    
+    padding-top: 0.9rem;
+    padding-left: auto;
+    padding-right:auto;
+    text-align: center;
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.features2{
+    padding-top: 2rem;
     padding-left: auto;
     padding-right:auto;
     text-align: center;
@@ -147,3 +170,6 @@
     margin-left: 170px;
 }
 
+.doimg{
+    border-radius: 100px;
+}
