@@ -97,17 +97,53 @@
 
 .aboutimg1{
     margin-left: auto;
-    margin-
 }
 
-.intro{
-    
-}
 
 .is{
-    font-family: 'Pacifico', cursive;
+    font-family: 'Sacramento', cursive;
     font-size: 80px;
     margin-top: 10px;
     margin-left: 15px;
     margin-right: 15px;
 }
+
+.is1{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.is3{
+    font-family: 'Raleway';
+    color: #777777;
+    font-size: 22px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.is2{
+    font-style: bold;
+    color: white;
+    background-color: black;
+}
+
+.features{
+    padding-left: auto;
+    padding-right:auto;
+    text-align: center;
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.btnstyling{
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: 190px;
+    margin-right:auto;
+}
+
