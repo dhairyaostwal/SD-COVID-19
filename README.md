@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="corona-j/corona/static/images/Logo.png"/><br>
-  S&D</h1><h3 align = "center"><i>Creating Supply & Demand during tough times of COVID-19<i></h3>
+  S&D</h1><h3 align = "center"><i>Creating Supply & Demand during tough times of COVID-19</i></h3>
   
 
 [![S&D-Product-Idea](https://img.shields.io/badge/Link-Product--Idea-blue)](https://www.linkedin.com/feed/update/urn:li:activity:6664136420841656320/)
